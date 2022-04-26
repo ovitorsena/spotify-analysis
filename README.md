@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/view/spotify-music-apps-gif-19364871" align="center" style="width: 80%" />
+<img src="https://c.tenor.com/iczjaEFdW20AAAAC/spotify-music.gif" align="center" style="width: 80%" />
 </div>  
   
   
