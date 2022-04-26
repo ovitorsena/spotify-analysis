@@ -1,0 +1,38 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Being Evil Has a Price,Being Evil Has a Price,Heavy Young Heathens,2016-06-29,203239,48,0.465,0.000394,0.465,0.624,0.000115,0.0995,-6.492,0.0382,141.931,4
+1,This Wicked Tongue - Peel 10.11.00,The Peel Sessions 1991 - 2004,PJ Harvey,2006-01-01,223733,28,0.371,0.00449,0.371,0.96,0.207,0.309,-7.738,0.0677,91.446,4
+2,Me And The Devil,Sugarbread,Soap&Skin,2013-03-11,185000,0,0.399,0.486,0.399,0.444,0.0086,0.111,-7.032,0.037,177.855,4
+3,Tick Tock Mr. Wick,John Wick: Chapter 3 – Parabellum (Original Motion Picture Soundtrack),Tyler Bates,2019-05-17,191626,1,0.326,0.0416,0.326,0.667,0.862,0.106,-9.865,0.0382,150.129,4
+4,Excomunicado,John Wick: Chapter 3 – Parabellum (Original Motion Picture Soundtrack),Tyler Bates,2019-05-17,85413,1,0.595,0.0607,0.595,0.663,0.856,0.102,-8.9,0.0395,87.709,4
+5,Zero Vs Wick,John Wick: Chapter 3 – Parabellum (Original Motion Picture Soundtrack),Tyler Bates,2019-05-17,284093,1,0.202,0.00244,0.202,0.945,0.74,0.284,-8.588,0.0931,86.741,4
+6,Killing In The Name,Rage Against The Machine - XX (20th Anniversary Special Edition),Rage Against The Machine,1992,313573,77,0.466,0.0266,0.466,0.833,0.0,0.0327,-4.215,0.304,88.785,4
+7,Blood Runs Red,Friday Night Sessions,78rpm,2017-06-16,225124,39,0.557,0.116,0.557,0.918,0.0,0.316,-2.688,0.0659,138.036,4
+8,Call Me Devil,Keep Moving On,Friends in Tokyo,2015-01-30,249599,49,0.458,0.00255,0.458,0.733,0.147,0.595,-5.7,0.0711,62.469,4
+9,Glitter & Gold,The Attractions Of Youth,Barns Courtney,2017-09-29,176093,0,0.595,0.359,0.595,0.622,0.0,0.229,-5.038,0.0287,85.142,4
+10,Out of the Black,Royal Blood,Royal Blood,2014-08-22,240572,60,0.52,0.000867,0.52,0.981,0.00177,0.197,-2.75,0.0906,158.937,4
+11,Mad About You - Live at Koningin Elisabethzaal 2012,With Orchestra Live,Hooverphonic,2012-10-26,239266,53,0.386,0.606,0.386,0.445,0.000243,0.702,-11.713,0.0377,77.881,4
+12,Fire,The Attractions Of Youth,Barns Courtney,2017-09-29,197520,0,0.553,0.235,0.553,0.624,0.000398,0.0755,-6.312,0.031,108.36,4
+13,Killing Strangers,The Pale Emperor (Deluxe),Marilyn Manson,2015-01-16,336487,38,0.594,0.00996,0.594,0.548,2.83e-06,0.132,-5.953,0.0369,60.004,4
+14,The Devil You Know,The Devil You Know,X Ambassadors,2017-06-06,242746,0,0.651,0.00428,0.651,0.696,0.513,0.127,-7.365,0.033,108.0,4
+15,Dream On,Aerosmith,Aerosmith,1973-01-05,266960,78,0.307,0.388,0.307,0.433,9.08e-05,0.332,-10.057,0.029,160.9,4
+16,The River,Dark Country 4,Various Artists,2016-02-01,215699,0,0.504,0.0568,0.504,0.436,0.002,0.238,-8.212,0.0474,147.955,4
+17,Wish You Were Here,Wish You Were Here,Pink Floyd,1975-09-12,334743,75,0.481,0.735,0.481,0.262,0.0114,0.832,-15.73,0.0414,122.861,4
+18,"Another Brick in the Wall, Pt. 2",The Wall,Pink Floyd,1979-11-30,238746,74,0.693,0.0782,0.693,0.394,0.000694,0.247,-15.882,0.0428,104.114,4
+19,Strange Weather,One Breath (Deluxe Edition),Anna Calvi,2014-10-27,334173,45,0.278,0.869,0.278,0.332,0.0391,0.156,-9.573,0.0294,136.786,4
+20,Start Me Up - Remastered,Honk (Deluxe),The Rolling Stones,2019-04-19,213006,0,0.632,0.0434,0.632,0.918,0.112,0.0812,-4.717,0.037,122.412,4
+21,Love Is Strong,Honk (Deluxe),The Rolling Stones,2019-04-19,227146,0,0.527,0.0142,0.527,0.851,0.252,0.111,-5.128,0.0457,110.111,4
+22,All Along the Watchtower,Electric Ladyland,Jimi Hendrix,1968-10-25,240800,75,0.438,0.00255,0.438,0.805,5.69e-05,0.0842,-6.237,0.0624,113.253,4
+23,Amen,Into the Wild Life (Deluxe),Halestorm,2015-04-10,178226,48,0.555,0.0567,0.555,0.974,0.0,0.202,-3.691,0.152,159.943,4
+24,Respectable,Honk (Deluxe),The Rolling Stones,2019-04-19,188466,0,0.451,0.0595,0.451,0.985,0.816,0.0674,-3.588,0.0532,152.158,4
+25,I Like It Heavy,Into the Wild Life (Deluxe),Halestorm,2015-04-10,294666,52,0.496,0.0912,0.496,0.92,1.01e-06,0.0868,-4.111,0.149,121.928,4
+26,Body Talks,YOUNG&DANGEROUS,The Struts,2018-10-19,178115,55,0.37,0.00354,0.37,0.855,0.0,0.372,-3.232,0.29,185.791,4
+27,Counting Bodies Like Sheep To The Rhythm Of The War Drums,eMOTIVe,A Perfect Circle,2004-01-01,336440,50,0.632,0.0467,0.632,0.938,0.0057,0.098,-6.999,0.339,135.787,4
+28,Pretty Waste,Bones UK,BONES UK,2019-07-12,170500,47,0.66,0.0001,0.66,0.835,0.000443,0.247,-3.79,0.114,94.014,4
+29,I Am the Fire,Into the Wild Life (Deluxe),Halestorm,2015-04-10,217173,53,0.384,0.0535,0.384,0.955,0.000997,0.0958,-2.884,0.266,171.888,4
+30,Brain Damage,The Dark Side of the Moon,Pink Floyd,1973-03-01,226666,64,0.324,0.0732,0.324,0.265,0.341,0.366,-13.398,0.0302,133.568,4
+31,I’m A Man,Burn Your Own Church,Black Strobe,2007-06-05,275546,0,0.726,0.00211,0.726,0.779,0.764,0.0719,-7.608,0.18,129.995,4
+32,Evil Eye,"Right Thoughts, Right Words, Right Action (Deluxe Edition)",Franz Ferdinand,2013-08-26,167253,52,0.702,0.0148,0.702,0.815,3.85e-05,0.0486,-3.289,0.0296,110.968,4
+33,Louder,Kid Karate,Kid Karate,2016-04-15,159906,35,0.734,0.0027,0.734,0.621,0.0376,0.197,-5.44,0.121,79.987,4
+34,Bad Man,Outlaw Blues 2,Various Artists,2015-02-07,206037,44,0.425,0.0332,0.425,0.968,0.158,0.19,-5.128,0.0798,154.061,4
+35,I'm A Wanted Man,Born for This,Royal Deluxe,2016-02-23,228986,60,0.486,0.00923,0.486,0.593,3.77e-06,0.325,-5.157,0.0349,82.032,4
+36,Hellfire,The Attractions Of Youth,Barns Courtney,2017-09-29,168853,59,0.529,0.244,0.529,0.847,0.0,0.205,-5.513,0.0482,93.977,4

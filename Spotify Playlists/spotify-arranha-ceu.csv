@@ -1,0 +1,47 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Bluesman,Bluesman,Baco Exu do Blues,2018-11-23,173381,53,0.607,0.157,0.607,0.763,2.4e-05,0.366,-5.529,0.578,149.838,4
+1,Passando a Limpo,Passando a Limpo,Coruja Bc1,2016-12-14,209673,36,0.644,0.487,0.644,0.696,0.0,0.321,-4.915,0.348,85.702,4
+2,Emhfm,Mixtape Eu e a Minha Habitual Falta de Moderação,Gigante No Mic,2018-05-01,234680,12,0.438,0.153,0.438,0.896,0.0,0.102,-2.585,0.357,90.135,4
+3,Alma Velha,Alma Velha,Gigante No Mic,2021-04-08,313959,16,0.685,0.693,0.685,0.491,0.0,0.0961,-9.284,0.273,86.079,4
+4,A. P. E. N. D. I. C. E.,A. P. E. N. D. I. C. E.,Gigante No Mic,2017-08-23,224033,7,0.365,0.236,0.365,0.768,0.0,0.311,-8.046,0.295,81.037,4
+5,"Labirinto Mental, Pt. 2","Labirinto Mental, Pt. 2",Gigante No Mic,2017-10-05,234294,9,0.608,0.465,0.608,0.695,0.0,0.201,-7.122,0.317,85.446,4
+6,A Loucura dos Sábios,Mixtape Eu e a Minha Habitual Falta de Moderação,Gigante No Mic,2018-05-01,288000,30,0.668,0.162,0.668,0.927,0.0,0.103,-3.464,0.191,89.978,4
+7,Vale das Sombras,Realismo Sujo,Gigante No Mic,2020-09-11,284587,28,0.657,0.54,0.657,0.634,0.0,0.111,-8.366,0.207,73.927,4
+8,Cuidado Onde Pisa,Cuidado Onde Pisa,Rap Box,2020-09-01,259357,11,0.713,0.699,0.713,0.819,0.00105,0.142,-6.926,0.261,173.976,4
+9,2040,2040,Gigante No Mic,2020-07-24,198790,5,0.565,0.546,0.565,0.685,0.0,0.0937,-6.955,0.229,173.661,4
+10,Acidente de Percurso,Acidente de Percurso,Gigante No Mic,2020-05-12,206295,12,0.632,0.641,0.632,0.762,0.0,0.0628,-6.084,0.282,178.01,4
+11,O Ovo da Serpente,O Ovo da Serpente,Gigante No Mic,2018-12-20,192086,6,0.799,0.367,0.799,0.537,0.0,0.141,-6.536,0.325,76.95,4
+12,Caviar do Irã,Caviar do Irã,Gigante No Mic,2018-08-21,206333,11,0.737,0.449,0.737,0.555,0.0,0.0816,-6.612,0.438,90.352,4
+13,Me Engrana Que Eu Gosto,Me Engrana Que Eu Gosto,Gigante No Mic,2017-11-10,223058,5,0.73,0.565,0.73,0.631,0.0,0.0992,-5.707,0.311,85.125,4
+14,Ser Humano,Epopéia da Poeira Cósmica,Fabio Brazza,2017-11-23,213354,0,0.697,0.266,0.697,0.836,0.0,0.115,-3.883,0.39,90.131,4
+15,Ainda Há Tempo,Ainda Há Tempo,Criolo,2016-05-06,318080,0,0.707,0.298,0.707,0.797,1.12e-06,0.0658,-7.489,0.322,82.064,4
+16,NDDN,NDDN,Coruja Bc1,2017-11-01,163844,0,0.713,0.0504,0.713,0.447,0.0,0.26,-12.733,0.589,83.735,4
+17,Não Existe Amor em Sp,Nó na Orelha,Criolo,2011-12-14,280032,0,0.604,0.391,0.604,0.412,0.016,0.0759,-9.527,0.0422,142.002,4
+18,Estopim,Estopim,Various Artists,2016-08-22,284700,40,0.646,0.351,0.646,0.84,0.0,0.0366,-5.691,0.336,179.931,4
+19,"Mandume (feat. Drik Barbosa, Raphão Alaafin, Muzzike, Amiri, Coruja BC1, Rico Dalasam & Rashid) - Ao Vivo",10 Anos de Triunfo (Ao Vivo),Emicida,2018-04-21,647666,34,0.586,0.442,0.586,0.906,0.0,0.979,-6.322,0.595,144.757,4
+20,Inácio da Catingueira,Inácio da Catingueira,Emicida,2018-09-18,235413,0,0.698,0.368,0.698,0.551,0.0,0.0752,-8.826,0.394,87.744,4
+21,Apócrifo,Apócrifo,Coruja Bc1,2019-03-08,300013,14,0.693,0.00997,0.693,0.732,4.99e-06,0.179,-9.388,0.349,87.672,4
+22,Django (feat. Emicida),No Dia dos Nossos,Coruja Bc1,2017-11-17,164075,0,0.651,0.0638,0.651,0.501,0.0,0.341,-12.675,0.509,82.758,4
+23,Sigla-Me Os Bons,"É Ritmo, Mas Também É Poesia",Mortão VMG,2017-07-19,162506,0,0.761,0.0746,0.761,0.889,0.0,0.063,-4.027,0.263,96.179,4
+24,Solstício,"É Ritmo, Mas Também É Poesia",Mortão VMG,2017-07-19,169386,0,0.734,0.31,0.734,0.56,0.0,0.1,-7.482,0.343,166.063,4
+25,Desafio De Rima - ABCDÁRIO,Desafio De Rima (ABCDÁRIO),Fabio Brazza,2017-04-19,376516,0,0.631,0.276,0.631,0.666,0.0,0.0405,-7.701,0.306,89.558,4
+26,Pangeia,Epopéia da Poeira Cósmica,Fabio Brazza,2017-11-23,338456,0,0.74,0.635,0.74,0.725,0.0,0.111,-6.676,0.243,148.971,4
+27,Desafio de Rima (Pensamento Inverso),Desafio de Rima (Pensamento Inverso),Fabio Brazza,2017-09-20,150136,0,0.727,0.778,0.727,0.522,0.0,0.131,-10.478,0.541,86.778,3
+28,Convoque Seu Buda,Convoque Seu Buda,Criolo,2014-11-04,231226,0,0.614,0.0483,0.614,0.703,1.31e-06,0.402,-7.287,0.342,80.76,4
+29,A Divina Comédia,A Divina Comédia,Various Artists,2018-05-18,320744,46,0.849,0.435,0.849,0.838,0.000117,0.152,-2.441,0.28,94.04,4
+30,Deixe Estar,Deixe Estar,Sid,2017-08-17,226165,27,0.819,0.284,0.819,0.702,0.0,0.111,-7.634,0.0636,103.996,4
+31,O Rap É Preto,"É Ritmo, Mas Também É Poesia",Mortão VMG,2017-07-19,199418,0,0.839,0.207,0.839,0.782,0.0,0.112,-5.738,0.273,94.043,4
+32,Anel de Giges,Epopéia da Poeira Cósmica,Fabio Brazza,2017-11-23,207908,0,0.618,0.505,0.618,0.657,0.0,0.293,-6.981,0.367,95.092,4
+33,Auschwitz,Epopéia da Poeira Cósmica,Fabio Brazza,2017-11-23,309335,0,0.509,0.9,0.509,0.0471,0.0,0.119,-21.684,0.0911,106.325,3
+34,Pra Não Dizer Que Não Falei Do Ódio - Ao Vivo,3Fs (Ao Vivo / Deluxe Version),Projota,2016-05-27,301824,0,0.528,0.0694,0.528,0.761,1.29e-06,0.499,-6.088,0.0511,144.012,4
+35,Tô pra Ver,Ainda Há Tempo,Criolo,2016-05-06,254533,0,0.645,0.184,0.645,0.814,0.0,0.095,-6.85,0.286,90.321,4
+36,Hoje Cedo,O Glorioso Retorno de Quem Nunca Esteve Aqui,Emicida,2014-01-25,194080,0,0.677,0.0447,0.677,0.828,0.0,0.136,-5.035,0.322,161.96,4
+37,Aterrissagem Forçada,5696,Sid,2018-02-23,216758,24,0.642,0.32,0.642,0.85,0.0,0.12,-5.127,0.229,124.094,4
+38,"Autobiografia, Pt. 1",5696,Sid,2018-02-23,183768,39,0.678,0.834,0.678,0.719,0.0,0.448,-6.54,0.284,95.091,4
+39,Arrogância (Interlúdio),5696,Sid,2018-02-23,95927,23,0.82,0.448,0.82,0.774,0.0,0.087,-6.475,0.37,113.385,4
+40,Favela Vive,Favela Vive,ADL,2016-09-20,349748,0,0.765,0.666,0.765,0.471,0.0,0.105,-11.903,0.419,77.995,4
+41,Favela Vive 2,Favela Vive 2,Various Artists,2017-02-24,422857,0,0.713,0.0545,0.713,0.567,8.17e-06,0.179,-4.073,0.12,104.684,4
+42,Levanta e Anda,O Glorioso Retorno de Quem Nunca Esteve Aqui,Emicida,2013,150439,56,0.488,0.0907,0.488,0.931,0.0,0.446,-4.185,0.327,87.33,4
+43,Tipo Charles,Realismo Sujo,Gigante No Mic,2020-09-11,242625,10,0.921,0.514,0.921,0.585,0.0,0.0921,-9.121,0.275,120.026,4
+44,De Volta Para o Futuro,Tupi Or Not Tupi,Fabio Brazza,2016-08-16,266426,37,0.61,0.3,0.61,0.857,0.0,0.0752,-5.906,0.416,150.055,4
+45,O Rap Tá Pop,O Rap Tá Pop,Fabio Brazza,2017,283062,27,0.875,0.187,0.875,0.806,0.0,0.122,-5.727,0.177,100.575,4
