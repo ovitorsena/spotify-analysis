@@ -1,6 +1,6 @@
   
-# Spotify Analysis
-Data exploratory anaylysis from Spotify playlist and musics.
+# Spotify Analysis [ WIP ]
+Data exploratory anaylysis from Spotify playlist and musics. 
 
 <div align="center">
 <img src="https://c.tenor.com/iczjaEFdW20AAAAC/spotify-music.gif" align="center" style="width: 70%" />
